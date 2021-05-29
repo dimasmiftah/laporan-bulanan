@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Quiz10118087</string>
+    <string name="team_name"><b>DigiTeam</b></string>
+    <string name="company_name">Jabar Digital Talent</string>
+    <string name="company_tagline">Digital Together Everyone Achieve More</string>
+    <string name="profile_name"><b>Dias Eka Fredianto, S.Kom, B.IT</b></string>
+    <string name="profile_role">UI Designer</string>
+    <string name="overview_title"><b>Jam Kerja Bulan Ini</b></string>
+    <string name="overview_desc">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="overview_note">Batas Minimun Jam Kerja 170 jam/bulan</string>
+    <string name="work_hours"><b>130.53 Jam</b></string>
+    <string name="checkin"><b>Checkin</b></string>
+
+
 </resources>
